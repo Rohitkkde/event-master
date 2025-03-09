@@ -65,10 +65,6 @@ npm install
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the application.
 
 
-𝙇𝙞𝙘𝙚𝙣𝙨𝙚
-
-
-This project is licensed under the MIT License.
 
 
 
